@@ -1,0 +1,229 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap" rel="stylesheet">
+.nav-link
+{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+
+}
+.nav-item{
+    color: black;
+}
+body
+{
+    background-image: url(background.avif);
+    background-size: cover;
+}
+.row
+{
+    text-decoration: none;
+    color: rgb(227, 154, 20);
+    margin-top: 50px;
+}
+.image-tag{
+    width: 321px;
+    height: 331px;
+    border: 1px solid rgb(15, 218, 233);
+    border-radius: 50%;
+
+}
+    
+
+.name h6{
+    color: rgb(9, 196, 225);
+
+}
+.name h1{
+    color: white;
+    font-family: Dela Gothic One;
+
+}
+.name h4{
+    background-color: aqua;
+    width: 275px;
+    margin-top: 50px;
+}
+ .image{
+    margin-left: 150px;
+    
+   
+} 
+.home
+{
+    display: flex; margin-top: 100px;
+    margin-left: 150px;
+}
+.name
+{
+ margin-top: 100px;
+ margin-left: 150px;
+}
+.about
+{
+    text-decoration: none;
+    color: aqua;
+    font-family: Dela Gothic One;
+}
+.image-2
+{
+    width: 321px;
+    height: 331px;
+}
+.page-2
+{
+    display: flex;
+    margin-top: 50px;
+}
+.about-me
+{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: white;
+    font-family: Roboto Condensed;
+}
+.about-me h3{
+color: white;
+margin-top: 100px;
+margin-right: 100px;
+}
+.skill
+{
+    list-style-type: none;
+    word-spacing: 30px;
+    margin-top: 100px;
+    margin-left: 250px;
+    
+    
+}
+.skill-1{
+    display: inline;
+}
+.sub h3
+{
+    margin-right: 300px;
+    text-decoration: none;
+    color: aqua;
+    font-family: Dela Gothic One;
+    
+    
+    
+
+}
+.skillbt{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px aqua;
+}
+p{
+    bottom: 10px;
+}
+.sub{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.font
+{
+    text-align: center;
+    color: aqua;
+    margin-top: 100px;
+    font-family:  Dela Gothic One;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.line-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: 40px 0; 
+}
+
+.line-1 {
+    flex: 1;
+    height: 2px;
+    background-color: #ccc; 
+    margin-right: 10px; 
+}
+
+.line-text-1 {
+    font-size: 50px; 
+    color: #333; 
+    font-weight: bold; 
+    color: aqua;
+    font-family: Dela Gothic One;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.line-container {
+    display: flex;
+    align-items: center;
+    margin: 40px 0; 
+}
+
+.line {
+    height: 2px;
+    background-color: #ccc; 
+    flex: 1; 
+    margin-left: 10px; 
+}
+
+.line-text {
+    font-size: 40px; 
+    color: #333; 
+    font-weight: bold; 
+    color: aqua;
+    font-family: Dela Gothic One;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.line-wrappers {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: 10px 0; 
+}
+
+.line-2 {
+    
+    height: 2px;
+    background-color: #ccc; 
+    margin-right: 10px; width: 667px;
+}
+
+.line-text-2 {
+    font-size: 40px; 
+    color: #333; 
+    font-weight: bold; 
+    color: aqua;
+    font-family: Dela Gothic One;
+}
+.font h6{
+    text-decoration: none;
+    font-family: Sofadi One;
+
+}
+
+
